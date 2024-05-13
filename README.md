@@ -1,6 +1,46 @@
-<div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="color: #3A3A3A;"># Hangman-JS</h1>
-  <p style="color: #3A3A3A; font-size: 18px;">Welcome to my Hangman-JS repository!</p>
-  <p style="color: #3A3A3A; font-size: 18px;">This is a stylish and professional hangman game developed using JavaScript. The game offers an interactive and fun design that will keep you guessing and improving your word recognition skills. The game features a variety of word categories providing a challenging experience for players of all skill levels. With each round, you will have to guess the hidden word by suggesting letters, with each wrong guess the man is hanged. It is perfect for testing your knowledge and improving your vocabulary. The game is easy to play and understand, making it suitable for all ages. and can be played on any modern web browser.</p>
-</div>
+# Hangman Game
+![Hangman](https://github.com/VinayShetyeOfficial/Hangman-JS/assets/100470361/24f6001a-215c-4ce0-a3dc-206222075831)
+A simple, interactive hangman game built with HTML, CSS, and Vanilla JavaScript.
 
+### Links
+Live Site URL: [Preview](https://6641a3b0f1eb576963646516--bucolic-gelato-91fe35.netlify.app/)
+
+
+## Description
+
+Hangman-JS allows players to guess the hidden word by choosing letters. Each incorrect guess adds a part to the hangman. The game is over if the hangman is completed or if the player guesses the word correctly.
+
+## Features
+
+- Interactive UI
+- Various categories of words to choose from
+- Hint option to help with difficult words
+- Play again option for continuous fun
+
+## How to Play
+
+1. The game selects a random word from the chosen category.
+2. Click on the letters to make a guess or click "Hint" for help.
+3. Try to guess the word before the hangman is completed.
+
+
+## Installation
+
+1. Clone this repository to your local machine using:
+  ```bash
+  git clone https://github.com/VinayShetyeOfficial/Hangman-JS.git
+  ```
+
+2. Navigate to the project directory:
+  ```bash
+  cd Hangman-JS
+  ```
+
+3. Open `index.html` in your web browser.
+
+### Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is open-source and available for anyone to explore, learn from, and contribute to.
+Feel free to customize the content and structure according to your preferences. <br><br> Happy coding! 😊
