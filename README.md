@@ -14,7 +14,7 @@ Hangman-JS allows players to guess the hidden word by choosing letters. Each inc
 
 - Interactive UI
 - Various categories of words to choose from
-- Hint option to help with difficult words
+- Hint option to help with difficult words 
 - Play again option for continuous fun
 
 ## How to Play
