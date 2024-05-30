@@ -11,7 +11,7 @@ Live Site URL: [Preview](https://6641a3b0f1eb576963646516--bucolic-gelato-91fe35
 Hangman-JS allows players to guess the hidden word by choosing letters. Each incorrect guess adds a part to the hangman. The game is over if the hangman is completed or if the player guesses the word correctly.
 
 ## Features
-
+ 
 - Interactive UI
 - Various categories of words to choose from
 - Hint option to help with difficult words 
